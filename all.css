@@ -1,0 +1,29 @@
+#grad 
+{
+  background-image: linear-gradient(rgb(116, 23, 59), rgb(247, 0, 255));
+}
+
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#status
+{
+  font-size: 15px;
+}
+
+canvas
+{
+  box-shadow:10px 10px 10px grey;
+  border-radius:20px;
+}
+
+#back
+{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 21px;
+}
